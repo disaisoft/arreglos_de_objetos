@@ -7,4 +7,6 @@ for (let i = 0; i < names.length; i++){
     capitalNames.push(capitalNames);
 }
 
+
+
 console.log(capitalNames);
